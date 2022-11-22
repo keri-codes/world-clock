@@ -1,4 +1,8 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(252, 247, 254);
+  text-align: center;
+}
+
+footer {
   text-align: center;
 }
